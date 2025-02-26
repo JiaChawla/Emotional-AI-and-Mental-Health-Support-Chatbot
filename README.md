@@ -1,4 +1,4 @@
-# Emotional-AI-and-Mental-Health-Support-Chatbot
+# MEDICAL ASSISTANT
 
 # How to run?
 ### STEPS:
@@ -29,7 +29,6 @@ pip install -r requirements.txt
 
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 
@@ -54,5 +53,5 @@ open up localhost:
 - Python
 - LangChain
 - Flask
-- GPT
+- Gemini
 - Pinecone
